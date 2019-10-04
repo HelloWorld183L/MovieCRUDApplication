@@ -1,0 +1,12 @@
+C:\Users\Leon\source\repos\MovieCRUD\MovieCRUD.Data\bin\Debug\MovieCRUD.Data.dll
+C:\Users\Leon\source\repos\MovieCRUD\MovieCRUD.Data\bin\Debug\MovieCRUD.Data.pdb
+C:\Users\Leon\source\repos\MovieCRUD\MovieCRUD.Data\obj\Debug\MovieCRUD.Data.csprojAssemblyReference.cache
+C:\Users\Leon\source\repos\MovieCRUD\MovieCRUD.Data\obj\Debug\MovieCRUD.Data.csproj.CoreCompileInputs.cache
+C:\Users\Leon\source\repos\MovieCRUD\MovieCRUD.Data\obj\Debug\MovieCRUD.Data.dll
+C:\Users\Leon\source\repos\MovieCRUD\MovieCRUD.Data\obj\Debug\MovieCRUD.Data.pdb
+C:\Users\Leon\source\repos\MovieCRUD\MovieCRUD.Data\bin\Debug\MovieCRUD.Data.dll.config
+C:\Users\Leon\source\repos\MovieCRUD\MovieCRUD.Data\bin\Debug\EntityFramework.dll
+C:\Users\Leon\source\repos\MovieCRUD\MovieCRUD.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Leon\source\repos\MovieCRUD\MovieCRUD.Data\bin\Debug\EntityFramework.xml
+C:\Users\Leon\source\repos\MovieCRUD\MovieCRUD.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Leon\source\repos\MovieCRUD\MovieCRUD.Data\obj\Debug\MovieCRUD.Data.csproj.CopyComplete
