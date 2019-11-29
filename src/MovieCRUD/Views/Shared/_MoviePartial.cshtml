@@ -1,0 +1,7 @@
+﻿@if (Request.IsAuthenticated)
+{
+    <ul class="nav navbar-nav">
+        <li>@Html.ActionLink("View Movies", "List", "Movie")</li>
+        <li>@Html.ActionLink("Create a new movie!", "Create", "Movie")</li>
+    </ul>
+}
